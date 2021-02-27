@@ -24,4 +24,4 @@ Per la risoluzione degli esercizi si consiglia l'utilizzo dei manuali del contro
 La seguente trattazione è una raccolta di esempi/esercizi svolti durante il corso di Laboratorio di Misure a Microcontrollore per l'esame di MAPI e LMM all'Università degli Studi di Napoli Federico II.
 > Esercizi svolti con l'utilizzo del Reference Manual, Datasheet e Materiale Didattico (Dispense)<br>
 > Esercizi svolti su [IAR EMBEDDED WORKBENCH](https://www.iar.com/iar-embedded-workbench/)<br>
-> **Attenzione** Gli esercizi POSSONO contenere errori.
+> **Attenzione** Gli esercizi POSSONO contenere errori e sono puramente esercizi opportunamente modificati.
