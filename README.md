@@ -32,3 +32,7 @@ La seguente trattazione è una raccolta di esempi/esercizi svolti durante il cor
 <br>
 
 **Attenzione** Gli esercizi POSSONO contenere errori, dunque è consigliato solo scrutare, prendere appunti, consultare. NO *COPIA-INCOLLA*.
+
+# Realizzato da
+<a href = "https://github.com/LaErre9" > Antonio Romano </a>
+
